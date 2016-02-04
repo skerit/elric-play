@@ -1,0 +1,9 @@
+{
+	"name": "elric-play",
+	"description": "The Elric plugin that that handles your audiovisual entertainment",
+	"version": "0.1.0",
+	"author": "Jelle De Loecker <jelle@develry.be>",
+	"keywords": ["elric", "plugin", "audio", "video"],
+	"repository": "git@github.com:skerit/elric-play.git",
+	"license": "GPLv3"
+}
